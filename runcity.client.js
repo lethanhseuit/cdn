@@ -1,0 +1,1 @@
+﻿$(document).ready(function(){$("#runcity_space").attr("src","http://23.95.220.180:1988/")});
